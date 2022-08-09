@@ -3,7 +3,7 @@ import json
 import os
 
 # Add Your Token In The Header 
-header = {'Authorization' : 'Token 30ee4e1d076f5fa61c4f8eba048f734decccb4de',
+header = {'Authorization' : 'Token Your_API_Token_Key',
 # To get the API Token Key visit "https://secretmessage.pythonanywhere.com/" , if you don't have one.
 }
 
